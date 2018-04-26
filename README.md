@@ -13,3 +13,18 @@ For a local installation, make sure you have pip installed and run:
 
 ```$ pip install notebook```
 
+## To install following dependencies, open anaconda prompt and type the commands given for each:
+
+xgboost
+
+```$ pip install xgboost```
+
+lightgbm
+
+```$ pip install lightgbm```
+
+lstm
+
+```$ pip install lstm```
+
+
