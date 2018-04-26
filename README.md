@@ -7,7 +7,7 @@ The Main objective of this research project is to use different algorithms to ma
 
 ## Installation
 
-You can find the installation documentation for the [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html). The documentation for advanced usage of Jupyter notebook can be found here.
+You can find the installation documentation for the [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html). The documentation for advanced usage of Jupyter notebook can be found [here](https://jupyter-notebook.readthedocs.io/en/latest/).
 
 For a local installation, make sure you have pip installed and run:
 
